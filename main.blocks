@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="t-/)q|k3twF|y3zqL1%@" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="xRC~m`JG1~~(a@6Kc%l_"><field name="i">IconNames.Heart</field><next><block type="device_print_message" id="vWKFM8;f4r]~koJ+[Rb="><value name="text"><shadow type="text" id="+R@iN]BL[.#rY%!b!|_r"><field name="TEXT">67</field></shadow></value></block></next></block></statement></block></xml>
